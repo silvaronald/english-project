@@ -1,0 +1,3 @@
+fastbook
+voila
+ipywidgets==7.6.3
